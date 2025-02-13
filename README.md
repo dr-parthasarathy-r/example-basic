@@ -1,4 +1,4 @@
 # This is to just learn the GitHub workflow
 
 
-## TO learn branching and merging
+## To learn branching and merging
